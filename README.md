@@ -1,5 +1,5 @@
-# digital_handwriting_recognition
-A python project that prompts a paint window where one can draw digital image of English digits and it can recognize the corresponding digit.
+# digital_handwritten_digit_recognition
+A python project that prompts a paint window where one can draw digital image of English numeric digits and it can recognize the corresponding digit.
 
 # Requirements
 This code was run on python 3.6 and requires the latest versions of the followings:
